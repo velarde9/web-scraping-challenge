@@ -14,5 +14,6 @@ in this Jupyter notebook, text elements were scraped and assembeled into a Panda
 - month: the Martian month
 - min_temp: the minimum temperature, in Celsius, of a single Martian day (sol)
 - pressure: The atmospheric pressure at Curiosity's location
+
 The data was then converted to the appropriate data types.
 After the DataFrame was created, Pandas was used to analyze the Mars weather data and visuals were created to support the ana;lysis. 
