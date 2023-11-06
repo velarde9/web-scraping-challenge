@@ -17,4 +17,4 @@ The text elements that were scraped were then assembeled into a Pandas DataFrame
 - pressure: The atmospheric pressure at Curiosity's location
 
 The data was then converted to the appropriate data types.
-After the DataFrame was created, Pandas was used to analyze the Mars weather data and visuals were created to support the ana;lysis. 
+After the DataFrame was created, Pandas was used to analyze the Mars weather data and visuals were created to support the analysis. 
